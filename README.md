@@ -1,5 +1,5 @@
 # 1-964
-my basic folder to helping create new project, 
+my basic folder to helping create new react native project, 
 - navigation
 - stack navigation
 - bottom tab navigation
